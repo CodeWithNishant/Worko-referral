@@ -5,6 +5,13 @@ https://codewithnishant.github.io/Worko-referral/
 
 This project demonstrates a blue-print of a referral sharing website, along with feature of searching from various cards. Information is pulled from the ninja-api for user contacts used to show data of companies and referrals.
 
+# Tech Stack
+
+react.js
+gh-pages
+axios
+ninja-api
+
 # Homepage 
 
 <img width="1436" alt="Screenshot 2024-07-11 at 6 43 55 PM" src="https://github.com/CodeWithNishant/Worko-referral/assets/90198169/6a480e9a-a4b1-48ee-94e1-91fbd6c3908e">
