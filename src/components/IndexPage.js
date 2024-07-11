@@ -35,7 +35,7 @@ const IndexPage = () => {
       requests.push(
         axios.get("https://api.api-ninjas.com/v1/randomuser", {
           headers: {
-            "X-Api-Key": "m4T2oiZy7DtFI1UITMtltA==mR89O2ART4KKyn6s",
+            "X-Api-Key": "API-KEY-HERE",
           },
         })
       );
