@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeWithNishant/Worko-referral/static/css/main.1f21c576.css",
+    "main.js": "/CodeWithNishant/Worko-referral/static/js/main.c2b179d5.js",
+    "static/js/453.ba014983.chunk.js": "/CodeWithNishant/Worko-referral/static/js/453.ba014983.chunk.js",
+    "index.html": "/CodeWithNishant/Worko-referral/index.html",
+    "main.1f21c576.css.map": "/CodeWithNishant/Worko-referral/static/css/main.1f21c576.css.map",
+    "main.c2b179d5.js.map": "/CodeWithNishant/Worko-referral/static/js/main.c2b179d5.js.map",
+    "453.ba014983.chunk.js.map": "/CodeWithNishant/Worko-referral/static/js/453.ba014983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f21c576.css",
+    "static/js/main.c2b179d5.js"
+  ]
+}
